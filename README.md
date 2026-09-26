@@ -37,7 +37,8 @@ To connect a real movie API:
 2. Put your OMDb key in:
 
 ```env
-VITE_OMDB_API_KEY=your_key_here
+VITE_OMDB_API_KEY=8d3a936d
+
 ```
 
 3. Restart the Vite server.
